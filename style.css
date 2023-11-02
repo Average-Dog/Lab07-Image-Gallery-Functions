@@ -18,63 +18,6 @@
     border: 10px solid white;
 }
 
-#four{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    margin-left: 220px;
-    border: 10px solid white;
-}
-#five{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
-#six{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
-#seven{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    margin-left: 220px;
-    border: 10px solid white;
-}
-#eight{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
-#nine{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
-#ten{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    margin-left: 220px;
-    border: 10px solid white;
-}
-#eleven{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
-#twleve{
-    width: 320px;
-    height: 213px;
-    margin: 30px;
-    border: 10px solid white;
-}
 
 /* hover effect */
 #one:hover {
@@ -85,33 +28,6 @@
 }
 #three:hover {
     border: 10px solid burlywood;
-}
-#four:hover {
-    border: 10px solid aquamarine;
-}
-#five:hover {
-    border: 10px solid yellow;
-}
-#six:hover {
-    border: 10px solid orange;
-}
-#seven:hover {
-    border: 10px solid greenyellow;
-}
-#eight:hover {
-    border: 10px solid aqua;
-}
-#nine:hover {
-    border: 10px solid blue;
-}
-#ten:hover {
-    border: 10px solid purple;
-}
-#eleven:hover {
-    border: 10px solid indianred;
-}
-#twleve:hover {
-    border: 10px solid bisque
 }
 
 /* enlarge picture */
